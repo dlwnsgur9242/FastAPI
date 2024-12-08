@@ -20,3 +20,4 @@
 + [24.11.28] FastAPI란
 + [24.11.29] FastAPI 기본 서비스 (Swagger, ReDoc, openapi.json)
 + [24.11.29] API 구현 (GET, POST, DELETE)
++ [24.12.07] FastAPI 웹CRUD (GET, POST, PUT, DELETE)
